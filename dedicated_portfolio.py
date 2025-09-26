@@ -1,3 +1,16 @@
+
+#################################################################
+#################################################################
+# The github link has all the data, readme, and requirements if you can't
+# get this to work, it has a built in python run command using the files
+# provided in the problem statement of the assignment. 
+# - Kevin
+
+# https://github.com/kevinbrar/Case-Study-Constructing-a-Dedicated-Portfolio#
+
+#################################################################
+#################################################################
+
 #========================IMPORTS=========================
 from datetime import date, timedelta
 from dateutil.relativedelta import relativedelta
